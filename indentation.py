@@ -1,8 +1,9 @@
+# True condition testing
 if 5 > 2:
     print("5 is greater than 2")
     print("Hello Amber")
 
-
+# False Condition Testing
 if 2 > 5:
     print("2 is greater than 5 ")
     print("2 bura ho gya 5 se")
