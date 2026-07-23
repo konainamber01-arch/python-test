@@ -1,0 +1,13 @@
+if 5 > 2:
+    print("5 is greater than 2")
+    print("Hello Amber")
+
+
+if 2 > 5:
+    print("2 is greater than 5 ")
+    print("2 bura ho gya 5 se")
+    print("5 chota hogia 2 se")
+
+
+print("Main code chul raha hai")
+print("hello world")
