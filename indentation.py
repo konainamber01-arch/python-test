@@ -31,3 +31,27 @@ if 3 > 10:
 
 print("python is easy language")
 print("who i am ")
+
+
+
+# True Testing Condition
+if 3 > 2:
+    print("3 is greater than 2")
+    print("i have car")
+    print("i am 19 years old")
+    print("i am student")
+
+print("i passed inter exams")
+print("i have many books")
+print("i have many dreams")
+
+
+# False Testing Condition
+if 2 > 3:
+    print("2 is greater than 3")
+    print("i complete many projects")
+    print("i have many projects")
+    print("hello")
+
+print("python is easy")
+print("hello world")
