@@ -55,3 +55,20 @@ if 2 > 3:
 
 print("python is easy")
 print("hello world")
+
+
+# True Testing Condition 
+if 4 > 2:
+    print("4 is greater than 2")
+    print("she is intelligent")
+    print("he is topper")
+
+
+# False Condition Testing
+if 2 > 4:
+    print("she is python developer")
+    print("he is teaher")
+    print("she is intellegnet")
+
+print("helooooo")
+print("world")
