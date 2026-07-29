@@ -72,3 +72,21 @@ if 2 > 4:
 
 print("helooooo")
 print("world")
+
+# True Testing Condition
+if 5 > 3:
+    print("5 is greater than 3")
+    print("she is topper")
+    print("i am intelligent")
+
+
+print("i am topper")
+
+
+# False Testing Condition
+if 3 > 5:
+    print("3 is greater than 5")
+    print("world")
+
+
+print("i am developer")
