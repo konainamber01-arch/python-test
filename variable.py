@@ -8,10 +8,14 @@ x = "logged in"
 y = "False"
 
 z = "Try again"
+Z = "Hello world"
 
 # if 50 > 15:
 #     print(x)      
 # print(y)
+
+print(z)  # Try again
+print(Z)  # Hello world
 
 
 # Use case of variable
