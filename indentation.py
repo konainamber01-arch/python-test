@@ -90,3 +90,12 @@ if 3 > 5:
 
 
 print("i am developer")
+
+
+"""
+This is the multiline comment, we use this when we have to add a multiline comment
+We can make this multiline comment using triple strings at the start and at the end of that comment
+"""
+
+
+# This is the single line comment, we use this when we have to add a single line comment
