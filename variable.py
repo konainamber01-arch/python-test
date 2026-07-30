@@ -51,6 +51,7 @@ if r > t:
 
 A =" she is wrong"
 E = "he is intelligent"
+T = 'my name is konain'
 
 if "she is true":
     print(A)
